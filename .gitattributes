@@ -1,0 +1,2 @@
+*.exe filter=lfs diff=lfs merge=lfs -f
+*.dll filter=lfs diff=lfs merge=lfs -f
